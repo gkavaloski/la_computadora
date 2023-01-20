@@ -35,6 +35,9 @@ anglo_spanish = {
     "no quiero hacerlo porque estoy cansado": "I don't want to do it because I'm tired",
     "necesito un cafe porque estoy cansado": "I need a coffee because I'm tired",
     "quiero saber por que no puedes hacerlo para mi oy": "I want to know why you can't do it for me today",
-    "sabes que estoy aqui para it": "you know that I'm here for you",
+    "sabes que estoy aqui para ti": "you know that I'm here for you",
     "te necesito, me necesitas": "I need you, you need me",
+    "estoy aqui pero estas alli": "I am here but you are there",
+    "no se donde estoy": "I don't know where I am",
+    "no se por que no puedes hacerlo asi": "I don't know whey you can't do it like that",
 }
