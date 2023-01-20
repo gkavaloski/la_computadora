@@ -40,4 +40,7 @@ anglo_spanish = {
     "estoy aqui pero estas alli": "I am here but you are there",
     "no se donde estoy": "I don't know where I am",
     "no se por que no puedes hacerlo asi": "I don't know whey you can't do it like that",
+    "queiro saber proque es importante": "I want to know because it's important",
+    "por que quieres hacerlo?": "Why do you want to do it?",
+    "no lo tengo porque no lo quiero y no lo necesito": "I don't have it because I don't want it and I don't need it",
 }
