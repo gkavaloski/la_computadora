@@ -43,4 +43,6 @@ anglo_spanish = {
     "queiro saber proque es importante": "I want to know because it's important",
     "por que quieres hacerlo?": "Why do you want to do it?",
     "no lo tengo porque no lo quiero y no lo necesito": "I don't have it because I don't want it and I don't need it",
+    "lo quiero porque es importante": "I want it because it's important",
+    "quiero saber por que no lo tienes para mi ahora": "I want to know why you don't have it for me now",
 }
