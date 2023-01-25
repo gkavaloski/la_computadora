@@ -83,7 +83,7 @@ anglo_spanish = {
     "no tiene una computadora": "She doesn't have a computer",
     "necesita hacerlo para ti": "He needs to do it for you",
     "donde cena?":"Where does she have dinner?",
-    "sabe porque no lo tengo": "She knows why I don't have it",
+    "sabe por que no lo tengo": "She knows why I don't have it",
     "carlos come en el coche": "Carlos has lunch in the car",
     "sabes cuando tienes que salir?": "Do you know when you have to leave?",
     "el telefono esta en la mesa?": "Is the phone on the table?",
