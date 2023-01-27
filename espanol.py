@@ -45,7 +45,7 @@ if type_of_challenge == "recent":
 
 else:
     for i in range(amount_of_phrases):
-        print("Bienvenidos, tu pepino es muy pequeno!")
+        print("Bienvenidos, to quiero estar aqui!")
         spanish, anglo = random.choice(list(spanishdicts.anglo_spanish.items()))
         print("\n" + anglo + "\n")
         answer = input("~~: ")
