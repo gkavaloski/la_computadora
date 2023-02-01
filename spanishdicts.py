@@ -115,7 +115,7 @@ recent_phrases = {
     "veo que estas ocupado hoy": "I see that you are busy today",
     "ves que no es posible?": "Do you see that it's not possible?",
     "ve que es imposible para mi": "she sees that it's impossible for me",
-    "ve que puedo hacerlo": "he sees that I can't do it",
+    "ve que no puedo hacerlo": "he sees that I can't do it",
     "puedes ver mi silla?": "Can you see my chair?",
     "comes en la silla": "You eat on the chair",
     "quieres cenar ahora?": "Do you want to have dinner now?",

@@ -44,8 +44,8 @@ if type_of_challenge == "recent":
         total_score = round((correct_answers / amount_of_phrases) * 100, 2)
 
 else:
+    print("Bienvenidos, no quiero estar aqui!")
     for i in range(amount_of_phrases):
-        print("Bienvenidos, to quiero estar aqui!")
         spanish, anglo = random.choice(list(spanishdicts.anglo_spanish.items()))
         print("\n" + anglo + "\n")
         answer = input("~~: ")
