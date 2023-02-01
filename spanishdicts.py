@@ -92,12 +92,17 @@ anglo_spanish = {
     "veo que estas ocupado hoy": "I see that you are busy today",
     "ves que no es posible?": "Do you see that it's not possible?",
     "ve que es imposible para mi": "she sees that it's impossible for me",
-    "ve que puedo hacerlo": "he sees that I can't do it",
+    "ve que no puedo hacerlo": "he sees that I can't do it",
     "puedes ver mi silla?": "Can you see my chair?",
     "comes en la silla": "You eat on the chair",
     "quieres cenar ahora?": "Do you want to have dinner now?",
     "puede salir cuando quiere": "She can leave when she wants",
     "eres jessica?": "Are you jessica?",
+    "por que no puedes decirme ahora?": "Why can't you tell me now?",
+    "puede salir cuando quiere": "She can leave when she wants to",
+    "ve que es imposible asi": "He sees that it's impossible for me",
+    "lo siento pero lo necesita ahora": "I'm sorry but she needs it now",
+    "estoy aqui pero estas alli": "I am here you are there",
 }
 
 recent_phrases = {
@@ -120,4 +125,9 @@ recent_phrases = {
     "comes en la silla": "You eat on the chair",
     "quieres cenar ahora?": "Do you want to have dinner now?",
     "puede salir cuando quiere": "She can leave when she wants",
+    "por que no puedes decirme ahora?": "Why can't you tell me now?",
+    "puede salir cuando quiere": "She can leave when she wants to",
+    "ve que es imposible asi": "He sees that it's impossible for me",
+    "lo siento pero lo necesita ahora": "I'm sorry but she needs it now",
+    "estoy aqui pero estas alli": "I am here you are there",
 }
